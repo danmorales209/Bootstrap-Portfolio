@@ -18,6 +18,17 @@
     color: #4aaaa5;
 }
 
+.portfolio-img {
+    background-image: url("http://lorempixel.com/175/175");
+    background-attachment: local;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: auto;
+    height: auto;
+    min-width: 200px;
+    min-height: 200px;
+}
+
 body {
     height: 100%;
     background-image: url('images/hypnotize.png');
@@ -31,4 +42,8 @@ footer {
     background-color: #666666;
     color: white;
     border-top: 3px solid #4aaaa5;
+}
+
+.title-link {
+    margin-top: 80%;
 }
