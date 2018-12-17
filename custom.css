@@ -5,7 +5,30 @@
     color: white;
 }
 
+.border-dark {
+    border-color: #dddddd;
+}
+
+.horizontal-line{
+    height: 3px;
+    background-color: #dddddd;
+}
+
+.teal-text {
+    color: #4aaaa5;
+}
+
+body {
+    height: 100%;
+    background-image: url('images/hypnotize.png');
+    background-position: center;
+    background-repeat: repeat;
+    background-size: 200px 200px;
+    background-color:gray;
+}
+
 footer {
     background-color: #666666;
     color: white;
+    border-top: 3px solid #4aaaa5;
 }
